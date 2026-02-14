@@ -224,29 +224,29 @@ html {
   #CLASSES-FOR-JAVASCRIPT 
 
   When click the share button, 
-  the active class toggle: 
+  the is-active class toggle: 
   . the card footer background color,
   . the author content hide,
   . the social nav show
 \*---------------------------*/
 
-.article__author.active {
+.is-active {
   background-color: var(--very-dark-grayish-blue);
 }
 
-.article__author.active .share-button {
+.is-active .share-button {
   background-color: var(--desaturated-dark-blue);
 }
 
-.article__author.active .share-icon {
+.is-active .share-icon {
   color: var(--white);
 }
 
-.article__author.active .article__author-content {
+.is-active .article__author-content {
   display: none;
 }
 
-.article__author.active .article__nav {
+.is-active .article__nav {
   display: flex;
 }
 

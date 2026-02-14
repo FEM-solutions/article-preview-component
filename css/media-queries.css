@@ -29,7 +29,7 @@
   }
 
   .share-button:hover,
-  .article__author.active .share-button {
+  .is-active .share-button {
     color: var(--white);
   }
 
@@ -65,21 +65,21 @@
 
   /* Classes for JavaScript */
 
-  .article__author.active {
+  .is-active {
     background-color: var(--white);
   }
 
-  .article__author.active .article__author-content {
+  .is-active .article__author-content {
     display: flex;
   }
 }
 
 @media (min-width: 64rem) {
-  .article__author.active .article__nav {
+  .is-active .article__nav {
     inset-inline-start: 50%;
   }
 
-  .article__author.active .article__nav::after {
+  .is-active .article__nav::after {
     transform: translateX(-50%);
   }
 }
