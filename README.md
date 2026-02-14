@@ -30,7 +30,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Live site URL: [https://fem-solutions.github.io/article-preview-component](https://fem-solutions.github.io/article-preview-component)
-- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-](https://www.frontendmentor.io/solutions/article-preview-component-)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-nCvBdLdgx-](https://www.frontendmentor.io/solutions/article-preview-component-nCvBdLdgx-)
 
 ## My process
 
